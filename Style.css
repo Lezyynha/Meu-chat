@@ -1,0 +1,7 @@
+body{margin:0;padding:8px;background:#000;color:#fff;font-family:Arial, sans-serif;font-size:15px;}
+#log,.si_chat_layout{display:block;}
+.chat-message{background:#111;padding:8px;margin-bottom:8px;border-left:6px solid #ff7b00;border-radius:4px;word-break:break-word;}
+.meta{display:block;font-weight:700;color:#ff9900;margin-bottom:4px;}
+.name{color:inherit;font-weight:700;}
+.badges{margin-right:6px;display:inline-block;vertical-align:middle;}
+.message{display:block;color:#fff;font-weight:400;}
